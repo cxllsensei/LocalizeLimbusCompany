@@ -12,9 +12,9 @@ LimbusCompany I18N mod
 
 [한국어](https://limbuscompany.kr) | ~~Deutsch~~ | [Español](https://github.com/Dreams-Office/LimbusCompanySpanishTranslationTeam) | [日本語](https://limbuscompany.kr) | [Français](https://github.com/Eden-Office/LimbusCompanyBusFR) | [简体中文](../../..)
 
-~~English~~ | ~~American English~~ | [Русский](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS) | ~~Swiss~~ | ~~Ελληνικά~~ | ~~Österreich~~ **ไทย**
+~~English~~ | ~~American English~~ | [Русский](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS) | ~~Swiss~~ | ~~Ελληνικά~~ | ~~Österreich~~
 
-[繁體中文](https://github.com/SmallYuanSY/LocalizeLimbusCompany) | [ภาษาไทย](https://github.com/JoshSnappas/LocalizeLimbusCompanyTH) | [Indonesia](https://github.com/ArtefactX1/LocalizeLimbusID)
+[繁體中文](https://github.com/SmallYuanSY/LocalizeLimbusCompany) | **ภาษาไทย** | [Indonesia](https://github.com/ArtefactX1/LocalizeLimbusID)
 </div>
 
 # Disclaimer
